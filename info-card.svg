@@ -1,1 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><style>.row{opacity:0;animation:fadeIn 0.5s ease-out forwards;}@keyframes fadeIn{0%{opacity:0;transform:translateX(-10px)}100%{opacity:1;transform:translateX(0)}}@media (prefers-reduced-motion: reduce){.row{opacity:1!important;transform:none!important;animation:none!important}}</style><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs><rect width="840" height="880" rx="12" fill="url(#bg)"/><rect x="0.5" y="0.5" width="839" height="879" rx="12" fill="none" stroke="#30363d"/><line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/><circle cx="24" cy="15.0" r="5" fill="#ff5f56"/><circle cx="40" cy="15.0" r="5" fill="#ffbd2e"/><circle cx="56" cy="15.0" r="5" fill="#27c93f"/><text x="420.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">pritam@github: ~$ neofetch</text><text class="row" style="animation-delay:0.1s" x="44" y="80" fill="#3fb950" font-size="28" font-weight="700">pritam<tspan fill="#7d8590">@</tspan><tspan fill="#58a6ff">github</tspan></text><line class="row" style="animation-delay:0.15s" x1="44" y1="96" x2="796" y2="96" stroke="#30363d" stroke-dasharray="4,4"/><g class="row" style="animation-delay:0.20s"><text x="44" y="145" fill="#58a6ff" font-weight="600" font-size="20">OS          </text><text x="224" y="145" fill="#e6edf3" font-size="19">Arch Linux x86_64</text></g><g class="row" style="animation-delay:0.32s"><text x="44" y="201" fill="#39c5cf" font-weight="600" font-size="20">Host        </text><text x="224" y="201" fill="#e6edf3" font-size="19">GitHub @Pritampy</text></g><g class="row" style="animation-delay:0.44s"><text x="44" y="257" fill="#3fb950" font-weight="600" font-size="20">Kernel      </text><text x="224" y="257" fill="#e6edf3" font-size="19">Fullstack &amp; AI Engineer</text></g><g class="row" style="animation-delay:0.56s"><text x="44" y="313" fill="#d29922" font-weight="600" font-size="20">Uptime      </text><text x="224" y="313" fill="#e6edf3" font-size="19">Coding since 2021</text></g><g class="row" style="animation-delay:0.68s"><text x="44" y="369" fill="#bc8cff" font-weight="600" font-size="20">Languages   </text><text x="224" y="369" fill="#e6edf3" font-size="19">Python, Java, C++, JavaScript, SQL</text></g><g class="row" style="animation-delay:0.80s"><text x="44" y="425" fill="#58a6ff" font-weight="600" font-size="20">Frameworks  </text><text x="224" y="425" fill="#e6edf3" font-size="19">Django, React, Flask, PyTorch, Docker</text></g><g class="row" style="animation-delay:0.92s"><text x="44" y="481" fill="#39c5cf" font-weight="600" font-size="20">Databases   </text><text x="224" y="481" fill="#e6edf3" font-size="19">PostgreSQL, MongoDB, MySQL</text></g><g class="row" style="animation-delay:1.04s"><text x="44" y="537" fill="#3fb950" font-weight="600" font-size="20">Algorithms  </text><text x="224" y="537" fill="#e6edf3" font-size="19">1000+ DSA questions solved on LeetCode</text></g><g class="row" style="animation-delay:1.16s"><text x="44" y="593" fill="#d29922" font-weight="600" font-size="20">Focus       </text><text x="224" y="593" fill="#e6edf3" font-size="19">Scalable Systems · Machine Learning · Web Dev</text></g><g class="row" style="animation-delay:1.28s"><text x="44" y="649" fill="#e6edf3" font-weight="600" font-size="20">Contact     </text><text x="224" y="649" fill="#e6edf3" font-size="19">pritamsingh07102001@gmail.com</text></g><circle class="row" style="animation-delay:1.5s" cx="54" cy="830" r="10" fill="#ff5f56"/><circle class="row" style="animation-delay:1.5s" cx="86" cy="830" r="10" fill="#ffbd2e"/><circle class="row" style="animation-delay:1.5s" cx="118" cy="830" r="10" fill="#27c93f"/><circle class="row" style="animation-delay:1.5s" cx="150" cy="830" r="10" fill="#39c5cf"/><circle class="row" style="animation-delay:1.5s" cx="182" cy="830" r="10" fill="#58a6ff"/><circle class="row" style="animation-delay:1.5s" cx="214" cy="830" r="10" fill="#bc8cff"/><circle class="row" style="animation-delay:1.5s" cx="246" cy="830" r="10" fill="#e6edf3"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="520" viewBox="0 0 840 520" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect width="840" height="520" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="839" height="519" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="34" x2="840" y2="34" stroke="#30363d"/>
+<circle cx="24" cy="17.0" r="5.5" fill="#ff5f56"/>
+<circle cx="42" cy="17.0" r="5.5" fill="#ffbd2e"/>
+<circle cx="60" cy="17.0" r="5.5" fill="#27c93f"/>
+<text x="420.0" y="21.0" fill="#7d8590" font-size="12" text-anchor="middle">pritam@github: ~$ neofetch</text>
+<text x="44" y="74" fill="#3fb950" font-size="24" font-weight="700">pritam<tspan fill="#7d8590">@</tspan><tspan fill="#58a6ff">github</tspan></text>
+<line x1="44" y1="88" x2="796" y2="88" stroke="#30363d" stroke-dasharray="4,4"/>
+<g opacity="1">
+  <text x="44" y="126" fill="#58a6ff" font-weight="600" font-size="18">OS</text>
+  <text x="204" y="126" fill="#e6edf3" font-size="17">Arch Linux x86_64</text>
+</g>
+<g opacity="1">
+  <text x="44" y="160" fill="#39c5cf" font-weight="600" font-size="18">Host</text>
+  <text x="204" y="160" fill="#e6edf3" font-size="17">GitHub @Pritampy</text>
+</g>
+<g opacity="1">
+  <text x="44" y="194" fill="#3fb950" font-weight="600" font-size="18">Role</text>
+  <text x="204" y="194" fill="#e6edf3" font-size="17">Fullstack &amp; AI Engineer</text>
+</g>
+<g opacity="1">
+  <text x="44" y="228" fill="#d29922" font-weight="600" font-size="18">Uptime</text>
+  <text x="204" y="228" fill="#e6edf3" font-size="17">Coding since 2021</text>
+</g>
+<g opacity="1">
+  <text x="44" y="262" fill="#bc8cff" font-weight="600" font-size="18">Languages</text>
+  <text x="204" y="262" fill="#e6edf3" font-size="17">Python, Java, C++, JavaScript, SQL</text>
+</g>
+<g opacity="1">
+  <text x="44" y="296" fill="#58a6ff" font-weight="600" font-size="18">Frameworks</text>
+  <text x="204" y="296" fill="#e6edf3" font-size="17">Django, React, Flask, PyTorch, Docker</text>
+</g>
+<g opacity="1">
+  <text x="44" y="330" fill="#39c5cf" font-weight="600" font-size="18">Databases</text>
+  <text x="204" y="330" fill="#e6edf3" font-size="17">PostgreSQL, MongoDB, MySQL</text>
+</g>
+<g opacity="1">
+  <text x="44" y="364" fill="#3fb950" font-weight="600" font-size="18">Algorithms</text>
+  <text x="204" y="364" fill="#e6edf3" font-size="17">1000+ DSA questions solved on LeetCode</text>
+</g>
+<g opacity="1">
+  <text x="44" y="398" fill="#d29922" font-weight="600" font-size="18">Focus</text>
+  <text x="204" y="398" fill="#e6edf3" font-size="17">Scalable Systems · Machine Learning · Web Dev</text>
+</g>
+<g opacity="1">
+  <text x="44" y="432" fill="#e6edf3" font-weight="600" font-size="18">Contact</text>
+  <text x="204" y="432" fill="#e6edf3" font-size="17">pritamsingh07102001@gmail.com</text>
+</g>
+<circle cx="54" cy="492" r="8" fill="#ff5f56"/>
+<circle cx="82" cy="492" r="8" fill="#ffbd2e"/>
+<circle cx="110" cy="492" r="8" fill="#27c93f"/>
+<circle cx="138" cy="492" r="8" fill="#39c5cf"/>
+<circle cx="166" cy="492" r="8" fill="#58a6ff"/>
+<circle cx="194" cy="492" r="8" fill="#bc8cff"/>
+<circle cx="222" cy="492" r="8" fill="#e6edf3"/>
+</svg>

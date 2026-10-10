@@ -30,7 +30,7 @@
 <!-- neofetch-style system info card -->
 <h3><code>pritam@github ~ $ ./stack.sh</code></h3>
 
-<img src="./info-card.svg" width="860" alt="Pritam's System & Tech Stack Neofetch Card" />
+<img src="./stack-card.svg" width="860" alt="Pritam's System & Tech Stack Neofetch Card" />
 
 <br>
 <br>
