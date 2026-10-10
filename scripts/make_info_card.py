@@ -4,6 +4,7 @@ Generate a neofetch-style SVG info card.
 Prints system/profile information in a clean terminal window aesthetic.
 Can be rendered statically or with staggered fade/slide SMIL animations.
 """
+import html
 import os
 import sys
 
@@ -66,9 +67,11 @@ parts.append(f'<line class="row" style="animation-delay:0.15s" x1="{PAD+20}" y1=
 y = 145
 for idx, (k, v, color) in enumerate(info_items):
     delay = 0.2 + idx * 0.12
+    safe_k = html.escape(k)
+    safe_v = html.escape(v)
     parts.append(f'<g class="row" style="animation-delay:{delay:.2f}s">')
-    parts.append(f'<text x="{PAD+20}" y="{y}" fill="{color}" font-weight="600" font-size="20">{k:12}</text>')
-    parts.append(f'<text x="{PAD+200}" y="{y}" fill="{INK}" font-size="19">{v}</text>')
+    parts.append(f'<text x="{PAD+20}" y="{y}" fill="{color}" font-weight="600" font-size="20">{safe_k:12}</text>')
+    parts.append(f'<text x="{PAD+200}" y="{y}" fill="{INK}" font-size="19">{safe_v}</text>')
     parts.append('</g>')
     y += 56
 
